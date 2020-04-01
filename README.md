@@ -10,6 +10,9 @@ We have attatched the links to the google colaboratory(Python) codes for all the
 
 And we have also added a powerpoint presentation for our work.
 
+link to the presentation:
+https://drive.google.com/open?id=1veSOBe3Z_a0RAegg05HPl7TyutUwiSntEgzBfO1HH6A
+
 THANK YOU....!!!!
 
 DONE BY:
